@@ -2,9 +2,9 @@
 
 Тестовое приложение Vselori для аренды недвижимости.
 
-**[Скачать Vselori Test 1.0.0 (10) для Android](https://github.com/Skier07/Vselori-releases/releases/download/v1.0.0-test.6/Vselori-Test-1.0.0-build10.apk)**
+**[Скачать Vselori Test 1.0.0 (11) для Android](https://github.com/Skier07/Vselori-releases/releases/download/v1.0.0-test.7/Vselori-Test-1.0.0-build11.apk)**
 
-[Что изменилось и контрольная сумма](https://github.com/Skier07/Vselori-releases/releases/tag/v1.0.0-test.6).
+[Что изменилось и контрольная сумма](https://github.com/Skier07/Vselori-releases/releases/tag/v1.0.0-test.7).
 
 Android 8.0 и новее. Откройте скачанный APK на телефоне и установите приложение
 **Vselori Test**. Его можно установить поверх предыдущей тестовой версии,
